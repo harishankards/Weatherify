@@ -1,0 +1,9 @@
+{
+  "name": "emberjs-weather",
+  "dependencies": {
+    "ember": "~2.9.0",
+    "ember-cli-shims": "0.1.3",
+    "normalize-css": "~5.0.0",
+    "roboto-fontface": "~0.6.0"
+  }
+}
