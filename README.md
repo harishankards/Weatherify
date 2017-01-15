@@ -1,7 +1,7 @@
-# Emberjs-weather
+# Weatherify
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This Weatherify app is a sample app to display weather of the different cities that can be searched in the search bar.
+Note: This is created for my practice purposes.
 
 ## Prerequisites
 
